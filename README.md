@@ -22,7 +22,7 @@ Em seguida rode o comando:
 npm start dev
 ```
 
-O sistema estará ativo em (http://localhost:3000). Você pode utilizar um API Client como [postman](https://www.postman.com/) ou [insominia](https://insomnia.rest/download) para testar as rotas do microserviço.
+O sistema estará ativo em http://localhost:3000/. Você pode utilizar um API Client como [postman](https://www.postman.com/) ou [insominia](https://insomnia.rest/download) para testar as rotas do microserviço.
 
 Caso deseje visualizar o banco de dados, rode o seguinte comando:
 
@@ -41,8 +41,6 @@ npm run test:watch
 Os testes serão exibidos no terminal.
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 - [NestJS](https://docs.nestjs.com/) - O framework utilizado
 - [TypeScript](https://www.typescriptlang.org/docs/) - A linguagem utilizada
