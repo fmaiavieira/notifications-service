@@ -10,7 +10,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Clone esse repositório em sua máquina, navegue para pasta 'notifications-service' e rode o seguinte comando no terminal:
+Clone esse repositório em sua máquina, navegue para pasta `notifications-service` e rode o seguinte comando no terminal:
 
 ```
 npm install
